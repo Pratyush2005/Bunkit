@@ -19,6 +19,7 @@ You can check out the live version of the app [here](https://attcal.vercel.app/)
 - **TypeScript** for type-safe JavaScript
 - **Vite** for fast builds and hot reloading
 - **CSS** for styling
+- **Vercel** for CI/CD
 
 ## Getting Started
 
