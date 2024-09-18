@@ -11,7 +11,7 @@
 
 ## Preview
 
-You can check out the live version of the app [here](#).
+You can check out the live version of the app [here](https://attcal.vercel.app/).
 
 ## Tech Stack
 
