@@ -70,7 +70,7 @@ const AttendanceCalculator: React.FC = () => {
         </div>
       )}
       <footer>
-        <p>Made by <a href="https://www.linkedin.com/in/pratyush-pradhan" target="_blank" rel="noopener noreferrer">Pratyush</a></p>
+        <p>Made by <a href="https://www.linkedin.com/in/pratyuhyuh/" target="_blank" rel="noopener noreferrer">Pratyush</a></p>
       </footer>
     </div>
   );
